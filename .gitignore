@@ -1,3 +1,11 @@
+# OS X
+.DS_Store*
+Icon?
+._*
+
+
+db.js
+
 # Logs
 logs
 *.log
